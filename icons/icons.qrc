@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>facebook.png</file>
+    <file>googleplus.png</file>
+    <file>twitter.png</file>
+  </qresource>
+  <qresource/>
+</RCC>
